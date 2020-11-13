@@ -4,7 +4,7 @@ body * {
     font-family: 'Goldman', cursive;
 }
 
-.jumbotron{
+#inicio .jumbotron{
     background-image :url('../img/myexp.jpeg');
     background-size: cover;
     background-position:center ;
@@ -16,7 +16,11 @@ body * {
     color: #ffffff;
 }
 
-#sobre-mi {
+#inicio {
     height: 0.4rem;
     background-color: #ffffff;
+}
+
+#experiencia .exp-text {
+    font-size: 1.5rem;
 }
