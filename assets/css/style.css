@@ -41,3 +41,33 @@ body * {
     background-color: #ffffff;
     height: 0.2rem;
 }
+
+#contacto {
+    height: 50vh;
+}
+
+#contacto div {
+    padding-top: 10vh
+}
+
+footer {
+    height: 20vh;
+}
+
+footer .icons {
+    font-size: 3rem;
+}
+
+.icons a {
+    text-decoration: none;
+    color: #FFFFFF
+}
+
+.bmdpki {
+    height: 70vh !important;
+    width: 70vw !important;
+}
+
+.jRMtza {
+    text-align: center !important;
+}
