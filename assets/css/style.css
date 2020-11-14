@@ -3,3 +3,21 @@
 body * {
     font-family: 'Architects Daughter', cursive;
 }
+
+#sobre-mi .jumbotron {
+    background-image: url(../img/eperencia2.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: #ffffff;
+}
+
+#sobre-mi hr {
+    height: 0.4rem;
+    background-color: white;
+
+}
