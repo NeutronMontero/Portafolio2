@@ -36,3 +36,8 @@ body * {
 #experencia .exp-text{
     font-size: 1.5rem;
 }
+
+#trabajos hr{
+    background-color: #ffffff;
+    height: 0.2rem;
+}
