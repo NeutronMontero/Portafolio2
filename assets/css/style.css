@@ -4,7 +4,7 @@ body * {
     font-family: 'Architects Daughter', cursive;
 }
 
-#sobre-mi .jumbotron {
+#inicio .jumbotron {
     background-image: url(../img/eperencia2.png);
     background-size: cover;
     background-position: center;
@@ -16,8 +16,20 @@ body * {
     color: #ffffff;
 }
 
-#sobre-mi hr {
+#inicio hr {
     height: 0.4rem;
     background-color: white;
 
 }
+
+#sobre-mi .content-header{
+    font-size: 1.56rem;
+    letter-spacing: 0.2rem;
+}
+
+#sobre-mi hr {
+    height: 0.1rem;
+    background-color: #000000;
+
+}
+
